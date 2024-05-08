@@ -1,5 +1,7 @@
 package RuntimeExceptions;
 
-public class CMM {
+public class SystemExample {
+
+
     
 }
